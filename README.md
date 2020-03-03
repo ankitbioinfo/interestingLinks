@@ -12,3 +12,5 @@ Lamina-Dependent Stretching and Unconventional Chromosome Compartments in Early 
 
 Find a home for every imaging data set
 
+https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.39/#/st_info-by-region
+
