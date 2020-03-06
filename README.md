@@ -14,3 +14,5 @@ Find a home for every imaging data set
 
 https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.39/#/st_info-by-region
 
+set(findobj(gcf,'type','axes'),'Visible','off')
+
