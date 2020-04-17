@@ -14,6 +14,7 @@ Genes that Escape Silencing on the Second X Chromosome May Drive Disease
 
 Lamina-Dependent Stretching and Unconventional Chromosome Compartments in Early C. elegans Embryos
 
+https://www.ks.uiuc.edu/Training/Workshop/Urbana2018b/slides/TCBG_Urbana_2018_Day1_EmadTajkhorshid.pdf
 
 Find a home for every imaging data set
 
