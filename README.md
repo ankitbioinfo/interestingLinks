@@ -23,3 +23,7 @@ https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.39/#/st_info-by-region
 set(findobj(gcf,'type','axes'),'Visible','off')
 
 neighbors = np.loadtxt(neigh_file, delimiter="\t", skiprows=0, usecols=[0,1])
+
+Standard error in slope and intercept 
+https://sites.chem.utoronto.ca/chemistry/coursenotes/analsci/stats/ErrRegr.html
+
