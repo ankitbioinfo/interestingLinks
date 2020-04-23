@@ -7,6 +7,8 @@ https://grantome.com/grant/NIH/R01-AT001121-07
 
 X-chromosome upregulation is driven by increased burst frequency
 
+https://www.slideshare.net/sparisoma/granular-particles-and-related-system
+
 How Cells Coordinate Growth and Division (Figure 2. Coordination of cell growth and division)
 https://www.cell.com/action/showPdf?pii=S0960-9822%2804%2900895-4
 
