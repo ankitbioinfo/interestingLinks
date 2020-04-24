@@ -1,8 +1,4 @@
-# interestingLinks
 
-http://ameroyer.github.io/projects/2018/03/01/alphacomplexes.html
-
-https://www.slideshare.net/sparisoma/granular-particles-and-related-system
 
 
 
@@ -38,6 +34,13 @@ Standard error in slope and intercept
 https://sites.chem.utoronto.ca/chemistry/coursenotes/analsci/stats/ErrRegr.html
 
 https://www.ks.uiuc.edu/Training/Workshop/Urbana2018b/slides/TCBG_Urbana_2018_Day1_EmadTajkhorshid.pdf
+
+
+# InterestingLinks
+
+http://ameroyer.github.io/projects/2018/03/01/alphacomplexes.html
+
+https://www.slideshare.net/sparisoma/granular-particles-and-related-system
 
 
 #  Langevin Time scale 
