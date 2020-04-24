@@ -29,3 +29,6 @@ neighbors = np.loadtxt(neigh_file, delimiter="\t", skiprows=0, usecols=[0,1])
 Standard error in slope and intercept 
 https://sites.chem.utoronto.ca/chemistry/coursenotes/analsci/stats/ErrRegr.html
 
+#Langevin Time scale 
+http://physics.gu.se/~frtbm/joomla/media/mydocs/LennartSjogren/kap6.pdf
+https://biophyenvpol.wordpress.com/2017/11/06/simulating-brownian-dynamics-overdamped-langevin-dynamics-using-lammps/
