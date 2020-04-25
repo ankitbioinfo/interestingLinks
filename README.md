@@ -46,3 +46,8 @@ https://www.slideshare.net/sparisoma/granular-particles-and-related-system
 #  Langevin Time scale 
 http://physics.gu.se/~frtbm/joomla/media/mydocs/LennartSjogren/kap6.pdf
 https://biophyenvpol.wordpress.com/2017/11/06/simulating-brownian-dynamics-overdamped-langevin-dynamics-using-lammps/
+
+
+# Cancer Cow, Human, Horse 
+
+https://www.the-scientist.com/the-literature/a-trick-that-helps-horses-and-cattle-avoid-metastatic-cancer-67320
