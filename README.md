@@ -51,3 +51,6 @@ https://biophyenvpol.wordpress.com/2017/11/06/simulating-brownian-dynamics-overd
 # Cancer Cow, Human, Horse 
 
 https://www.the-scientist.com/the-literature/a-trick-that-helps-horses-and-cattle-avoid-metastatic-cancer-67320
+
+# Morphogenesis and Bayesian 
+“Constraining” the probability toward a specified attractor: Comment on: Morphogenesis as Bayesian inference: A variational approach to pattern formation and control in complex biological systems
