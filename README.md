@@ -10,6 +10,8 @@ Genes that Escape Silencing on the Second X Chromosome May Drive Disease
 
 Lamina-Dependent Stretching and Unconventional Chromosome Compartments in Early C. elegans Embryos
 
+Nuclear Lamin-A Scales with Tissue Stiffness and Enhances Matrix-Directed Differentiation
+
 
 # Cell growth self orgnaization 
 
