@@ -11,7 +11,9 @@ Genes that Escape Silencing on the Second X Chromosome May Drive Disease
 Lamina-Dependent Stretching and Unconventional Chromosome Compartments in Early C. elegans Embryos
 
 
-# Cell growth
+# Cell growth self orgnaization 
+
+Self-organization: the fundament of cell biology Roland Wedlich-Söldner and Timo Betz
 
 How Cells Coordinate Growth and Division (Figure 2. Coordination of cell growth and division)
 https://www.cell.com/action/showPdf?pii=S0960-9822%2804%2900895-4
