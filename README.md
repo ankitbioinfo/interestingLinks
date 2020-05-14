@@ -60,4 +60,4 @@ https://www.the-scientist.com/the-literature/a-trick-that-helps-horses-and-cattl
 “Constraining” the probability toward a specified attractor: Comment on: Morphogenesis as Bayesian inference: A variational approach to pattern formation and control in complex biological systems
 
 
-![Image description](link-to-image)
+![Collagen](https://github.com/ankitbioinfo/interestingLinks/blob/master/collagen.png)
