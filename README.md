@@ -66,4 +66,6 @@ Introduction M.A. Karsdal
 3) Network-forming collagen: 4,8,10
 4) Membrane collagens: 13,17,23,25
 
+The Collagen Family  Sylvie Ricard-Blum
+
 ![Collagen](https://github.com/ankitbioinfo/interestingLinks/blob/master/collagen.png)
