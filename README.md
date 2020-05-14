@@ -59,5 +59,11 @@ https://www.the-scientist.com/the-literature/a-trick-that-helps-horses-and-cattl
 # Morphogenesis and Bayesian 
 “Constraining” the probability toward a specified attractor: Comment on: Morphogenesis as Bayesian inference: A variational approach to pattern formation and control in complex biological systems
 
+# Collagen Structure Information 
+Introduction M.A. Karsdal 
+1) Fibril forming: 1-3,5-6,24,27
+2) Fibril-associated collagens with interrupted triple helices:  9,12-16, 19-22
+3) Network-forming collagen: 4,8,10
+4) Membrane collagens: 13,17,23,25
 
 ![Collagen](https://github.com/ankitbioinfo/interestingLinks/blob/master/collagen.png)
