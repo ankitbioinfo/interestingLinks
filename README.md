@@ -61,7 +61,7 @@ https://www.the-scientist.com/the-literature/a-trick-that-helps-horses-and-cattl
 
 # Collagen Structure Information 
 Introduction M.A. Karsdal 
-1) Fibril forming: 1-3,5-6,24,27,   [11,9]
+1) Fibril forming: 1-3,5-6,24,27,   [11,9]  fibrils, beaded filaments, anchoring fibrils, and networks
 2) Fibril-associated collagens with interrupted triple helices:  9,12-16, 19-22
 3) Network-forming collagen: 4,8,10
 4) Membrane collagens: 13,17,23,25
