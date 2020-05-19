@@ -28,7 +28,12 @@ https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.39/#/st_info-by-region
 
 
 
-# MATLAB python statstics MD command 
+# MATLAB, python, statstics, MD command, LAMMPS
+
+Implementation of multi-level contact detection in LAMMPS
+Kevin Stratford, EPCC
+Tom Shire, University of Glasgow,
+Kevin Hanley, University of Edinburgh
 
 set(findobj(gcf,'type','axes'),'Visible','off')
 
