@@ -30,6 +30,12 @@ https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.39/#/st_info-by-region
 
 # MATLAB, python, statstics, MD command, LAMMPS
 
+https://www.archer.ac.uk/training/virtual/2019-03-20-granular-lammps/eCSE_1209_Webinar.pdf
+
+https://sourceforge.net/p/lammps/mailman/message/35999292/
+
+https://www.cnblogs.com/Simulation-Campus/p/8777118.html
+
 Implementation of multi-level contact detection in LAMMPS
 Kevin Stratford, EPCC
 Tom Shire, University of Glasgow,
