@@ -70,6 +70,11 @@ https://www.the-scientist.com/the-literature/a-trick-that-helps-horses-and-cattl
 # Morphogenesis and Bayesian 
 “Constraining” the probability toward a specified attractor: Comment on: Morphogenesis as Bayesian inference: A variational approach to pattern formation and control in complex biological systems
 
+# Granular vs Colloidal 
+granular systems made up of macroscopic particles possess similarities with colloidal ones. The crucial difference, however, is that thermal fluctuations are negligible for such materials. Hence granular systems are intrinsically athermal. Nonetheless, shaking granulates lying on vibrating substrates is a common practice to study two dimensional phase transitions
+https://www.nature.com/articles/srep10348
+
+
 # Collagen Structure Information 
 Introduction M.A. Karsdal 
 1) Fibril forming: 1-3,5-6,24,27,   [11,9]  fibrils, beaded filaments, anchoring fibrils, and networks
