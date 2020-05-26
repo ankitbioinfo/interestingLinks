@@ -77,8 +77,16 @@ https://www.nature.com/articles/srep10348
 
 
 # Stiffness 
-![micro-stiffness](https://github.com/ankitbioinfo/interestingLinks/blob/master/collagen.png)
+The nuclear lamina is mechano-responsive to ECM elasticity in mature tissue 2014
 
+![micro-stiffness](https://github.com/ankitbioinfo/interestingLinks/blob/master/micro-stiffness.png)
+Left: the quantity of type I collagen present in tissues is proportional to tissue
+micro-elasticity (Swift et al., 2013b). As collagen is one of the most prevalent proteins in the body, it is, perhaps, expected that it defines mechanical properties. Right: the ratio of A-type lamin to B-type lamin in the nuclear lamina is proportional to tissue microelasticity. The lamina contains predominantly A-type lamins in stiff tissue, whereas B-type lamins are prevalent in the nuclear lamina in soft tissue (Swift et al., 2013b).
+
+![Embryo stiffness](https://github.com/ankitbioinfo/interestingLinks/blob/master/stiffnessInEmbryo.png)
+Left: observations made in adult tissue are
+consistent with results from the developing chick; the embryonic disc was initially soft, but divergent tissues either remained soft (e.g. brain, blue) or became increasingly stiff (e.g. heart, red). Inset: developing chick hearts were probed by micropipette aspiration to determine micro-elasticity. Middle: tissue stiffening during development is accompanied by increased levels of collagen and A-type lamins (Lehner et al., 1987; Majkut et al., 2013). Right: embryonic stem cells initially express negligible quantities of A-type lamin proteins, but these levels increase as the nucleus stiffens during lineage commitment (Pajerowski et al., 2007).
+![Mechanical role of lamins](https://github.com/ankitbioinfo/interestingLinks/blob/master/mechanicalRoleOfLamins.png)
 
 
 # Collagen Structure Information 
