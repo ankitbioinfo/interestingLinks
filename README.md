@@ -75,6 +75,12 @@ granular systems made up of macroscopic particles possess similarities with coll
 https://www.nature.com/articles/srep10348
 
 
+
+# Stiffness 
+![micro-stiffness](https://github.com/ankitbioinfo/interestingLinks/blob/master/collagen.png)
+
+
+
 # Collagen Structure Information 
 Introduction M.A. Karsdal 
 1) Fibril forming: 1-3,5-6,24,27,   [11,9]  fibrils, beaded filaments, anchoring fibrils, and networks
