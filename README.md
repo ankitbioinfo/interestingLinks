@@ -93,15 +93,17 @@ Left: observations made in adult tissue are consistent with results from the dev
 2) [Rebecca E. Wilusz, Johannah Sanchez-Adams, Farshid Guilak]  The structure and function of the pericellular matrix of articular cartilage. Matrix Biology 2014 [Rebecca_MatrixBiology_2014.pdf]
 
 Elastic moduli of Chondrocytes ~0.5 kPa\
-Zone of carilage ~ 0.1-2 MPa \
-PCM (pericellular matrix) moduli ~40-70 kPa\ 
+Zone of carilage (ECM) ~ 0.1-2 MPa\
+PCM (pericellular matrix) moduli ~40-70 kPa\
+Bone 14 GPa  
 
 
-3)  Collagen Structure Information  Introduction M.A. Karsdal 
-1) Fibril forming: 1-3,5-6,24,27,   [11,9]  fibrils, beaded filaments, anchoring fibrils, and networks
-2) Fibril-associated collagens with interrupted triple helices:  9,12-16, 19-22
-3) Network-forming collagen: 4,8,10
-4) Membrane collagens: 13,17,23,25
+3) Collagen Structure Information  Introduction M.A. Karsdal 
+
+i) Fibril forming: 1-3,5-6,24,27,   [11,9]  fibrils, beaded filaments, anchoring fibrils, and networks
+ii) Fibril-associated collagens with interrupted triple helices:  9,12-16, 19-22
+iii) Network-forming collagen: 4,8,10
+iv) Membrane collagens: 13,17,23,25
 
 The Collagen Family  Sylvie Ricard-Blum
 
