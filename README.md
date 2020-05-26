@@ -77,7 +77,8 @@ https://www.nature.com/articles/srep10348
 
 
 # Stiffness 
-1) [Joe Swift and Dennis E. Discher] The nuclear lamina is mechano-responsive to ECM elasticity in mature tissue. Journal of Cell Science, 2014 [LaminaECM2014.pdf]
+# 1) 
+[Joe Swift and Dennis E. Discher] The nuclear lamina is mechano-responsive to ECM elasticity in mature tissue. Journal of Cell Science, 2014 [LaminaECM2014.pdf]
 
 ![micro-stiffness](https://github.com/ankitbioinfo/interestingLinks/blob/master/micro-stiffness.png)
 
@@ -90,14 +91,16 @@ Left: observations made in adult tissue are consistent with results from the dev
 ![Mechanical role of lamins](https://github.com/ankitbioinfo/interestingLinks/blob/master/mechanicalRoleOfLamins.png)
 
 
-2) [Rebecca E. Wilusz, Johannah Sanchez-Adams, Farshid Guilak]  The structure and function of the pericellular matrix of articular cartilage. Matrix Biology 2014 [Rebecca_MatrixBiology_2014.pdf]
+# 2) 
+[Rebecca E. Wilusz, Johannah Sanchez-Adams, Farshid Guilak]  The structure and function of the pericellular matrix of articular cartilage. Matrix Biology 2014 [Rebecca_MatrixBiology_2014.pdf]
 
 Elastic moduli of Chondrocytes ~0.5 kPa\
 Zone of carilage (ECM) ~ 0.1-2 MPa\
 PCM (pericellular matrix) moduli ~40-70 kPa\
 Bone 14 GPa  
 
-3) Physical, Spatial, and Molecular Aspects of Extracellular Matrix of In Vivo Niches and Artificial Scaffolds Relevant to Stem Cells Research [Maria_2015.pdf]
+# 3) 
+Physical, Spatial, and Molecular Aspects of Extracellular Matrix of In Vivo Niches and Artificial Scaffolds Relevant to Stem Cells Research [Maria_2015.pdf]
 
 
 Over 15 different parameters have been shown to influence stem cell choices. 
@@ -109,7 +112,14 @@ Biochemical characteristics of natural extracellular matrix molecules regard div
 ![Elastic Moduli](https://github.com/ankitbioinfo/interestingLinks/blob/master/elasticModuli.png)
 
 
-30) Collagen Structure Information  Introduction M.A. Karsdal 
+# 4) 
+softvsHardTissue (https://github.com/ankitbioinfo/interestingLinks/blob/master/softTissue.png)
+https://books.google.co.il/books?id=gstUAgAAQBAJ&pg=PA34&dq=matrix+rigidity+biology&hl=en&sa=X&ved=0ahUKEwiMgNS_otHpAhUL2KQKHeY2CLoQ6AEIMDAB#v=onepage&q=matrix%20rigidity%20biology&f=false
+
+
+
+# 30) 
+Collagen Structure Information  Introduction M.A. Karsdal 
 
 i) Fibril forming: 1-3,5-6,24,27,   [11,9]  fibrils, beaded filaments, anchoring fibrils, and networks\
 ii) Fibril-associated collagens with interrupted triple helices:  9,12-16, 19-22\
