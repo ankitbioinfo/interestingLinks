@@ -102,9 +102,11 @@ Bone 14 GPa
 
 Over 15 different parameters have been shown to influence stem cell choices. 
 Physical aspects include 
-1) stiffness (or elasticity), 2) viscoelasticity, 3) pore size, 4) porosity, 5) amplitude, 6) frequency of static and dynamic deformations applied to the matrix. 
-Spatial aspects include 7) scaffold dimensionality (2D or 3D) and thickness; 8) cell polarity; 9) area, shape, and microscale topography of cell adhesion surface; 10) epitope concentration, epitope clustering characteristics (number of epitopes per cluster, spacing between epitopes within cluster, spacing between separate clusters, cluster patterns, and level of disorder in epitope arrangement), and 11) nanotopography. 
+1) stiffness (or elasticity), 2) viscoelasticity, 3) pore size, 4) porosity, 5) amplitude, 6) frequency of static and dynamic deformations applied to the matrix.\
+Spatial aspects include 7) scaffold dimensionality (2D or 3D) and thickness; 8) cell polarity; 9) area, shape, and microscale topography of cell adhesion surface; 10) epitope concentration, epitope clustering characteristics (number of epitopes per cluster, spacing between epitopes within cluster, spacing between separate clusters, cluster patterns, and level of disorder in epitope arrangement), and 11) nanotopography.\ 
 Biochemical characteristics of natural extracellular matrix molecules regard diversity and structural complexity of matrix molecules, affinity and specificity of epitope interaction with cell receptors, role of non-affinity domains, complexity of supramolecular organization, and co-signaling by growth factors or matrix epitopes. Synergy between several matrix aspects enables stem cells to retain their function in vivo and may be a key to generation of long-term, robust, and effective in vitro stem cell culture systems.
+
+![Elastic Moduli](https://github.com/ankitbioinfo/interestingLinks/blob/master/elasticModuli.png)
 
 
 30) Collagen Structure Information  Introduction M.A. Karsdal 
