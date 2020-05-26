@@ -91,9 +91,10 @@ Left: observations made in adult tissue are consistent with results from the dev
 
 
 2) [Rebecca E. Wilusz, Johannah Sanchez-Adams, Farshid Guilak]  The structure and function of the pericellular matrix of articular cartilage. Matrix Biology 2014 [Rebecca_MatrixBiology_2014.pdf]
-Elastic moduli of Chondrocytes ~0.5 kPa
-Zone of carilage ~ 0.1-2 MPa 
-PCM (pericellular matrix) moduli ~40-70 kPa 
+
+Elastic moduli of Chondrocytes ~0.5 kPa\
+Zone of carilage ~ 0.1-2 MPa \
+PCM (pericellular matrix) moduli ~40-70 kPa\ 
 
 
 3)  Collagen Structure Information  Introduction M.A. Karsdal 
