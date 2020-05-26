@@ -113,7 +113,8 @@ Biochemical characteristics of natural extracellular matrix molecules regard div
 
 
 #### 4) 
-softvsHardTissue (https://github.com/ankitbioinfo/interestingLinks/blob/master/softTissue.png)
+![softvsHardTissue](https://github.com/ankitbioinfo/interestingLinks/blob/master/softTissue.png)
+
 https://books.google.co.il/books?id=gstUAgAAQBAJ&pg=PA34&dq=matrix+rigidity+biology&hl=en&sa=X&ved=0ahUKEwiMgNS_otHpAhUL2KQKHeY2CLoQ6AEIMDAB#v=onepage&q=matrix%20rigidity%20biology&f=false
 
 
