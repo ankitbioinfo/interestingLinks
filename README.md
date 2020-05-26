@@ -86,6 +86,7 @@ micro-elasticity (Swift et al., 2013b). As collagen is one of the most prevalent
 ![Embryo stiffness](https://github.com/ankitbioinfo/interestingLinks/blob/master/stiffnessInEmbryo.png)
 Left: observations made in adult tissue are
 consistent with results from the developing chick; the embryonic disc was initially soft, but divergent tissues either remained soft (e.g. brain, blue) or became increasingly stiff (e.g. heart, red). Inset: developing chick hearts were probed by micropipette aspiration to determine micro-elasticity. Middle: tissue stiffening during development is accompanied by increased levels of collagen and A-type lamins (Lehner et al., 1987; Majkut et al., 2013). Right: embryonic stem cells initially express negligible quantities of A-type lamin proteins, but these levels increase as the nucleus stiffens during lineage commitment (Pajerowski et al., 2007).
+
 ![Mechanical role of lamins](https://github.com/ankitbioinfo/interestingLinks/blob/master/mechanicalRoleOfLamins.png)
 
 
