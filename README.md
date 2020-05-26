@@ -77,7 +77,7 @@ https://www.nature.com/articles/srep10348
 
 
 # Stiffness 
-# 1) 
+### 1) 
 [Joe Swift and Dennis E. Discher] The nuclear lamina is mechano-responsive to ECM elasticity in mature tissue. Journal of Cell Science, 2014 [LaminaECM2014.pdf]
 
 ![micro-stiffness](https://github.com/ankitbioinfo/interestingLinks/blob/master/micro-stiffness.png)
