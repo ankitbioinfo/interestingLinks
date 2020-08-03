@@ -57,7 +57,7 @@ https://www.ks.uiuc.edu/Training/Workshop/Urbana2018b/slides/TCBG_Urbana_2018_Da
 # Capture first image from the movie 
 https://stackoverflow.com/questions/4425413/how-to-extract-the-1st-frame-and-restore-as-an-image-with-ffmpeg
 
-
+ffmpeg -i inputfile.mkv -vf "select=eq(n\,0)" -q:v 3 output_image.jpg
 
 
 # InterestingLinks
