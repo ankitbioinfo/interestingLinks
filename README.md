@@ -54,6 +54,12 @@ https://sites.chem.utoronto.ca/chemistry/coursenotes/analsci/stats/ErrRegr.html
 https://www.ks.uiuc.edu/Training/Workshop/Urbana2018b/slides/TCBG_Urbana_2018_Day1_EmadTajkhorshid.pdf
 
 
+# Capture first image from the movie 
+https://stackoverflow.com/questions/4425413/how-to-extract-the-1st-frame-and-restore-as-an-image-with-ffmpeg
+
+
+
+
 # InterestingLinks
 
 http://ameroyer.github.io/projects/2018/03/01/alphacomplexes.html
