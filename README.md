@@ -48,6 +48,9 @@ set(findobj(gcf,'type','axes'),'Visible','off')
 
 neighbors = np.loadtxt(neigh_file, delimiter="\t", skiprows=0, usecols=[0,1])
 
+Python code open xls file and then fit straight line 
+https://github.com/ankitbioinfo/interestingLinks/blob/master/PlotData.py
+
 Standard error in slope and intercept 
 https://sites.chem.utoronto.ca/chemistry/coursenotes/analsci/stats/ErrRegr.html
 
@@ -143,4 +146,3 @@ The Collagen Family  Sylvie Ricard-Blum
 # Packing 
 Effective Properties of Composites with PeriodicRandom Packing of Ellipsoids
 
-# Python code open xls and fit straight line 
