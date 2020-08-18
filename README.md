@@ -139,3 +139,8 @@ iv) Membrane collagens: 13,17,23,25\
 The Collagen Family  Sylvie Ricard-Blum
 
 ![Collagen](https://github.com/ankitbioinfo/interestingLinks/blob/master/collagen.png)
+
+# Packing 
+Effective Properties of Composites with PeriodicRandom Packing of Ellipsoids
+
+# Python code open xls and fit straight line 
