@@ -147,4 +147,4 @@ The Collagen Family  Sylvie Ricard-Blum
 Effective Properties of Composites with PeriodicRandom Packing of Ellipsoids
 
 # Entropy
-!Entropy(https://github.com/ankitbioinfo/interestingLinks/blob/master/entropy.png)
+![Entropy](https://github.com/ankitbioinfo/interestingLinks/blob/master/entropy.png)
